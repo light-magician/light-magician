@@ -1,8 +1,6 @@
 ## Light Magician
 
-<div align="center">
-  <img src="aesthetic_stairs.jpg" alt="Aesthetic Stairs" width="600">
-</div>
+<img src="aesthetic_stairs.jpg" alt="Aesthetic Stairs" width="600">
 
 Systems Engineer.
 
